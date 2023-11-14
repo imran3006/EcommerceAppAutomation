@@ -1,0 +1,9 @@
+<suite thread-count="1" verbose="1" name="Ecommerce App Automation">
+
+    <test name="Ecommerce App Automation">
+        <classes>
+            <class name="testrunner.ecommerceTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
